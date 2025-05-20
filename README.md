@@ -1,6 +1,9 @@
 ### 
-![image](https://github.com/IndraniB2020/IndraniB2020/assets/59628314/953f2172-cd49-4af6-9a07-fdd9f1876b18)
+![image](https://github.com/user-attachments/assets/8ac21deb-3332-4dfc-8868-ca8dada929a3)
 
 
 has experiences in AI, NLP, DeepLearning, Model deploying in multicloud & monitoring.
+
+
+
 
